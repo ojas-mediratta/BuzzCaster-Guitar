@@ -41,6 +41,10 @@ My project did not involve the use of too many libraries beyond what was needed 
 
 \# include &lt;SerialFlash.h&gt;
 
+![SignalChain](https://github.com/user-attachments/assets/9b210053-f6b3-45e7-ad7f-4f43e9d7bd45)
+
+_Audio signal path using the Teensy audio library_
+
 ### Custom Parts
 
 I did a heavy amount of custom work on the guitar body to make it suitable for the project, including routing out large amounts of material to create enough space to house the electronics, as well as for routing wires for USB connectivity. I also designed and 3D printed a custom bracket to house the battery bank that I used to power my project. This was mounted to the back of the guitar body and fit the Anker Powercore 10,000 perfectly.
