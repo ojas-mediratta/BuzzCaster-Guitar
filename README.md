@@ -1,7 +1,3 @@
-Here is the document with the headers changed to level 3 headers:
-
----
-
 # BuzzCaster-Guitar
 Documentation and project files for my CS 3651 (Prototyping Intelligent Devices) final project.
 
@@ -80,7 +76,3 @@ Rotary Encoders: <https://forum.arduino.cc/t/rotary-encoder-schematic-and-exampl
 16x2 LCD Tutorial: <https://docs.arduino.cc/learn/electronics/lcd-displays/>
 
 Teensy Freeverb Tutorial (This helped me understand how I could control different effects): <https://www.youtube.com/watch?v=4oFQf_HSwJQ&t=454s>
-
----
-
-Let me know if you need any further adjustments!
