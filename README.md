@@ -62,8 +62,8 @@ Over the course of the project, many of the ideas and plans I was implementing w
 
 **UPDATE:**
 I have since acquired a new Teensy 4.1 and have completed the project. Attached are images of the BuzzCaster in all its glory!!
-
-[Insert images here]
+![IMG_8784_70](https://github.com/user-attachments/assets/6fdb26fd-43b2-41ad-b42e-048c899a7712)
+[Insert Video Here]
 
 _The completed project_
 
